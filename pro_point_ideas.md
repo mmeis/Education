@@ -6,8 +6,8 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 
 ### Required (1)
 1.	Join the Mid-State Cyber Cougars Discord Group
-  1.	Invite here: https://discord.gg/BjBjdYD5kP
-  1.	Introduce yourself and post a meme.
+     1.	Invite here: https://discord.gg/BjBjdYD5kP
+     1.	Introduce yourself and post a meme.
 
 ### Events (1 – *)
 1.	Attend a Gaming Club Event
