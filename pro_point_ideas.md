@@ -43,9 +43,11 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.	WiCyS (Women in Cybersecurity) Mentorship
      1.	CMCP (International Consortium of Minority Cybersecurity Professionals)
      1.	Through another org or individual
-7.	Sign up as a member of InfraGard:
+7.	Become a member and write about one of the resources of the Cyber Students Organization
+     1.   A free membership is available here: https://www.cyberstudents.org/
+9.	Sign up as a member of InfraGard:
      1.	https://www.infragardnational.org/
-8.	Suggest an organization to your instructor
+10.	Suggest an organization to your instructor
 
 ### News and Information (0 – 1)
 1.	Sign up for the SecFraudOps Newsletter
