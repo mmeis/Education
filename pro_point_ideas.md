@@ -6,17 +6,17 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 
 ### Required (1)
 1.	Join the Mid-State Cyber Cougars Discord Group
-     a.	Invite here: https://discord.gg/BjBjdYD5kP
-     a.	Introduce yourself and post a meme.
+     1.	Invite here: https://discord.gg/BjBjdYD5kP
+     1.	Introduce yourself and post a meme.
 
 ### Events (1 – *)
 1.	Attend a Gaming Club Event
-     a.	View Discussion and Events on our Mid-State Cyber Cougars Teams Group.
+     1.	View Discussion and Events on our Mid-State Cyber Cougars Teams Group.
           i.	Join this Teams group
-     a.	You can attend more than one event for credit as long as the event is different. For example, you cannot attend 2 board game nights and earn credit for both.
+     1.	You can attend more than one event for credit as long as the event is different. For example, you cannot attend 2 board game nights and earn credit for both.
 2.	Attend or Volunteer at an Industry Conference
-     a.	CypherCon, SuperCon, Secure 360, BSides, Cyber Security Summit, Deadwood, GrrCON, SANS Summits, RSA Conference, BlueTeamCon, etc…
-     b.	Daily Double: Counts for 2 assignments
+     1.	CypherCon, SuperCon, Secure 360, BSides, Cyber Security Summit, Deadwood, GrrCON, SANS Summits, RSA Conference, BlueTeamCon, etc…
+     1.	Daily Double: Counts for 2 assignments
 3.	Attend an Ignite Young Professionals Event
      a.	https://www.facebook.com/IgnitePortageCountyWI/events/
 4.	Attend a Mid-State Continuing Education Class or other Mid-State Event
