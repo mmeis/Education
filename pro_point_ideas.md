@@ -12,7 +12,7 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 ### Events (1 – *)
 1.	Attend a Gaming Club Event
      1.	View Discussion and Events on our Mid-State Cyber Cougars Teams Group.
-          i.	Join this Teams group
+          1.	Join this Teams group
      1.	You can attend more than one event for credit as long as the event is different. For example, you cannot attend 2 board game nights and earn credit for both.
 2.	Attend or Volunteer at an Industry Conference
      1.	CypherCon, SuperCon, Secure 360, BSides, Cyber Security Summit, Deadwood, GrrCON, SANS Summits, RSA Conference, BlueTeamCon, etc…
