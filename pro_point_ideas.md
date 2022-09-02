@@ -54,6 +54,8 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.	https://secfraudops.substack.com/
 2.	Subscribe to the Blue Security Podcast
      1.	https://anchor.fm/blue-security-podcast
+1.   Subcribe to the Security Now Podcast or YouTube channel
+     1.   https://www.youtube.com/c/securitynow
 3.	Read a white paper (8+ pages) on a topic related to your major
 4.	Subscribe and listen to an industry podcast
 5.	Read a book and review it
@@ -74,7 +76,11 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.	https://www.youtube.com/watch?v=nUbFXiqgnm0
 7.	Made in Beijing: The Plan for Global Market Domination
      1.	https://www.youtube.com/watch?v=GdapE82GceA
-8.	Suggest a media source to your instructor
+8.	The Imitation Game
+     1.   https://www.imdb.com/title/tt2084970/
+9.   Codebreaker Documentary
+     1.   https://www.imdb.com/title/tt2119396/
+11.	Suggest a media source to your instructor
 
 ### Professional (0 – 3)
 1.	Create 3 different google job search alerts for jobs that interest you.
