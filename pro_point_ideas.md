@@ -15,7 +15,7 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
           1.	Join this Teams group
      1.	You can attend more than one event for credit as long as the event is different. For example, you cannot attend 2 board game nights and earn credit for both.
 2.	Attend or Volunteer at an Industry Conference
-     1.	CypherCon, SuperCon, Secure 360, BSides, Cyber Security Summit, Deadwood, GrrCON, SANS Summits, RSA Conference, BlueTeamCon, etc…
+     1.	CypherCon, SuperCon, Secure/Career 360, WI Governor's Cybersecurity Summit, BSides, Cyber Security Summit, Deadwood, GrrCON, SANS Summits, RSA Conference, BlueTeamCon, etc…
      1.	Daily Double: Counts for 2 assignments
 3.	Attend an Ignite Young Professionals Event
      1.	https://www.facebook.com/IgnitePortageCountyWI/events/
