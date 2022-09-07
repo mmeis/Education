@@ -80,7 +80,48 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.   https://www.imdb.com/title/tt2084970/
 9.   Codebreaker Documentary
      1.   https://www.imdb.com/title/tt2119396/
-11.	Suggest a media source to your instructor
+11. We Are Legion – The Story Of The Hacktivists
+     1.   https://lnkd.in/dEihGfAg)
+13. The Internet’s Own Boy: The Story Of Aaron Swartz (https://lnkd.in/d3hQVxqp)
+     1.   
+15. Hackers Wanted (https://lnkd.in/du-pMY2R)
+     1.   
+17. Secret History Of Hacking (https://lnkd.in/dnCWU-hp)
+     1.   
+19. Def Con: The Documentary (https://lnkd.in/dPE4jVVA)
+     1.   
+20. Web Warriors (https://lnkd.in/dip22djp)
+     1.   
+21. Risk (2016) (https://lnkd.in/dMgWT-TN)
+     1.   
+22. Zero Days (2016) (https://lnkd.in/dq_gZA8z)
+     1.   
+23. Guardians Of The New World (Hacking Documentary) | Real Stories (https://lnkd.in/dUPybtFd)
+     1.   
+24. A Origem dos Hackers (https://lnkd.in/dUJgG-6J)
+     1.   
+25. The Great Hack (https://lnkd.in/dp-MsrQJ)
+     1.   
+26. The Networks Dilemma (https://lnkd.in/dB6rC2RD)
+     1.   
+27. 21st Century Hackers (https://lnkd.in/dvdnZkg5)
+     1.   
+28. Cyber War - Dot of Documentary (https://lnkd.in/dhNTBbbx)
+     1.   
+29. CyberWar Threat - Inside Worlds Deadliest Cyberattack
+30. The Future of Cyberwarfare
+     1.   https://www.youtube.com/watch?v=L78r7YD-kNw
+31. Dark Web Fighting Cybercrime Full Hacking
+     1.   https://www.youtube.com/watch?v=PjfX4CjSVGE
+32. Cyber Defense: Military Training for Cyber Warfare
+     1.   https://www.youtube.com/watch?v=rcDizlmjNQY
+33. Hacker Hunter: WannaCry The History Marcus Hutchin
+     1.   https://www.youtube.com/watch?v=vveLaA-z3-o
+34. The Life Hacker Documentary
+     1.   https://www.youtube.com/watch?v=TVgJmAJsOeQ
+35. Hacker The Realm and Electron - Hacker Group
+     1.   https://www.youtube.com/watch?v=GcnkEPTy3QI
+36.	Suggest a media source to your instructor
 
 ### Professional (0 – 3)
 1.	Create 3 different google job search alerts for jobs that interest you.
