@@ -56,10 +56,12 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.	https://anchor.fm/blue-security-podcast
 1.   Subcribe to the Security Now Podcast or YouTube channel
      1.   https://www.youtube.com/c/securitynow
-3.	Read a white paper (8+ pages) on a topic related to your major
-4.	Subscribe and listen to an industry podcast
-5.	Read a book and review it
-6.	Suggest a news source to your instructor
+3.	Subscribe to the Naket Security Newsletter or Podcast
+     1.   https://nakedsecurity.sophos.com/
+5.	Read a white paper (8+ pages) on a topic related to your major
+6.	Subscribe and listen to an industry podcast
+7.	Read a book and review it
+8.	Suggest a news source to your instructor
 
 ### Media (0 – 1)
 1.	The 14 Absolute Truths of Security
