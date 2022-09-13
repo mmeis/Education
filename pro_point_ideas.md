@@ -111,19 +111,23 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 28. Cyber War - Dot of Documentary (https://lnkd.in/dhNTBbbx)
      1.   
 29. CyberWar Threat - Inside Worlds Deadliest Cyberattack
-30. The Future of Cyberwarfare
+30. The Great Hack
+     1. https://en.wikipedia.org/wiki/The_Great_Hack
+32. Snodan:
+     1. https://en.wikipedia.org/wiki/Snowden_(film)
+33. The Future of Cyberwarfare
      1.   https://www.youtube.com/watch?v=L78r7YD-kNw
-31. Dark Web Fighting Cybercrime Full Hacking
+34. Dark Web Fighting Cybercrime Full Hacking
      1.   https://www.youtube.com/watch?v=PjfX4CjSVGE
-32. Cyber Defense: Military Training for Cyber Warfare
+35. Cyber Defense: Military Training for Cyber Warfare
      1.   https://www.youtube.com/watch?v=rcDizlmjNQY
-33. Hacker Hunter: WannaCry The History Marcus Hutchin
+36. Hacker Hunter: WannaCry The History Marcus Hutchin
      1.   https://www.youtube.com/watch?v=vveLaA-z3-o
-34. The Life Hacker Documentary
+37. The Life Hacker Documentary
      1.   https://www.youtube.com/watch?v=TVgJmAJsOeQ
-35. Hacker The Realm and Electron - Hacker Group
+38. Hacker The Realm and Electron - Hacker Group
      1.   https://www.youtube.com/watch?v=GcnkEPTy3QI
-36.	Suggest a media source to your instructor
+39.	Suggest a media source to your instructor
 
 ### Professional (0 – 3)
 1.	Create 3 different google job search alerts for jobs that interest you.
