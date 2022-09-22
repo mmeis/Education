@@ -58,6 +58,8 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.   https://www.youtube.com/c/securitynow
 3.	Subscribe to the Naket Security Newsletter or Podcast
      1.   https://nakedsecurity.sophos.com/
+1.   Subscribe to The Langley Files: A CIA Podcast
+     1.   https://podcasts.apple.com/us/podcast/the-langley-files-a-cia-podcast/id1645885248
 5.	Read a white paper (8+ pages) on a topic related to your major
 6.	Subscribe and listen to an industry podcast
 7.	Read a book and review it
@@ -84,32 +86,32 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.   https://www.imdb.com/title/tt2119396/
 11. We Are Legion – The Story Of The Hacktivists
      1.   https://lnkd.in/dEihGfAg)
-13. The Internet’s Own Boy: The Story Of Aaron Swartz (https://lnkd.in/d3hQVxqp)
-     1.   
-15. Hackers Wanted (https://lnkd.in/du-pMY2R)
-     1.   
-17. Secret History Of Hacking (https://lnkd.in/dnCWU-hp)
-     1.   
-19. Def Con: The Documentary (https://lnkd.in/dPE4jVVA)
-     1.   
-20. Web Warriors (https://lnkd.in/dip22djp)
-     1.   
-21. Risk (2016) (https://lnkd.in/dMgWT-TN)
-     1.   
-22. Zero Days (2016) (https://lnkd.in/dq_gZA8z)
-     1.   
-23. Guardians Of The New World (Hacking Documentary) | Real Stories (https://lnkd.in/dUPybtFd)
-     1.   
-24. A Origem dos Hackers (https://lnkd.in/dUJgG-6J)
-     1.   
-25. The Great Hack (https://lnkd.in/dp-MsrQJ)
-     1.   
-26. The Networks Dilemma (https://lnkd.in/dB6rC2RD)
-     1.   
-27. 21st Century Hackers (https://lnkd.in/dvdnZkg5)
-     1.   
-28. Cyber War - Dot of Documentary (https://lnkd.in/dhNTBbbx)
-     1.   
+13. The Internet’s Own Boy: The Story Of Aaron Swartz
+     1.   https://lnkd.in/d3hQVxqp
+15. Hackers Wanted
+     1.   https://lnkd.in/du-pMY2R
+17. Secret History Of Hacking
+     1.   https://lnkd.in/dnCWU-hp
+19. Def Con: The Documentary
+     1.   https://lnkd.in/dPE4jVVA
+20. Web Warriors
+     1.   https://lnkd.in/dip22djp
+21. Risk (2016)
+     1.   https://lnkd.in/dMgWT-TN
+22. Zero Days (2016)
+     1.   https://lnkd.in/dq_gZA8z
+23. Guardians Of The New World (Hacking Documentary) | Real Stories
+     1.   https://lnkd.in/dUPybtFd
+24. A Origem dos Hackers
+     1.   https://lnkd.in/dUJgG-6J
+25. The Great Hack
+     1.   https://lnkd.in/dp-MsrQJ
+26. The Networks Dilemma
+     1.   https://lnkd.in/dB6rC2RD
+27. 21st Century Hackers
+     1.   https://lnkd.in/dvdnZkg5
+28. Cyber War - Dot of Documentary
+     1.   https://lnkd.in/dhNTBbbx
 29. CyberWar Threat - Inside Worlds Deadliest Cyberattack
 30. The Great Hack
      1. https://en.wikipedia.org/wiki/The_Great_Hack
