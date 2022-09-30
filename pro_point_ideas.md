@@ -12,7 +12,7 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.   Teams:
           1. Join the Teams group here: [Mid-State Cyber Cougars Teams Group](https://teams.microsoft.com/l/team/19%3ab4e1c95933c44670a140dced94eaafda%40thread.tacv2/conversations?groupId=abc3d8a1-f609-4ebd-9f0b-2b47acf34066&tenantId=2d0c965b-8fc1-4bc0-b627-a39e7823c253).
           2. Look at the Events tab at the top of the general channel.
-     3.	No write up neccessry for this pro points assignment
+     3.	No write up neccessry for this pro points assignment, just post an image of your discord intro and the Teams group events page.
 
 ### Events (1 – *)
 1.	Attend a Gaming Club Event
