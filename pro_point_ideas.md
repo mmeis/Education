@@ -104,32 +104,36 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.   https://lnkd.in/dUPybtFd
 24. A Origem dos Hackers
      1.   https://lnkd.in/dUJgG-6J
-25. The Great Hack
+25. Breach
+     1.   https://imdb.com/title/tt0401997/
+27. The Great Hack
      1.   https://lnkd.in/dp-MsrQJ
-26. The Networks Dilemma
+28. The Networks Dilemma
      1.   https://lnkd.in/dB6rC2RD
-27. 21st Century Hackers
+29. 21st Century Hackers
      1.   https://lnkd.in/dvdnZkg5
-28. Cyber War - Dot of Documentary
+30. Cyber War - Dot of Documentary
      1.   https://lnkd.in/dhNTBbbx
-29. CyberWar Threat - Inside Worlds Deadliest Cyberattack
-30. The Great Hack
+31. CyberWar Threat - Inside Worlds Deadliest Cyberattack
+32. The Great Hack
      1. https://en.wikipedia.org/wiki/The_Great_Hack
-32. Snodan:
+33. Snodan:
      1. https://en.wikipedia.org/wiki/Snowden_(film)
-33. The Future of Cyberwarfare
+34. The Future of Cyberwarfare
      1.   https://www.youtube.com/watch?v=L78r7YD-kNw
-34. Dark Web Fighting Cybercrime Full Hacking
+35. Dark Web Fighting Cybercrime Full Hacking
      1.   https://www.youtube.com/watch?v=PjfX4CjSVGE
-35. Cyber Defense: Military Training for Cyber Warfare
+36. Cyber Defense: Military Training for Cyber Warfare
      1.   https://www.youtube.com/watch?v=rcDizlmjNQY
-36. Hacker Hunter: WannaCry The History Marcus Hutchin
+37. Hacker Hunter: WannaCry The History Marcus Hutchin
      1.   https://www.youtube.com/watch?v=vveLaA-z3-o
-37. The Life Hacker Documentary
+38. The Life Hacker Documentary
      1.   https://www.youtube.com/watch?v=TVgJmAJsOeQ
-38. Hacker The Realm and Electron - Hacker Group
+39. Hacker The Realm and Electron - Hacker Group
      1.   https://www.youtube.com/watch?v=GcnkEPTy3QI
-39.	Suggest a media source to your instructor
+40.	Many more options here:
+     1.   https://www.studynotesandtheory.com/single-post/if-you-re-studying-for-the-cissp-watch-these-movies
+42.	Suggest a media source to your instructor
 
 ### Professional (0 – 3)
 1.	Create 3 different google job search alerts for jobs that interest you.
