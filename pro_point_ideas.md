@@ -5,14 +5,18 @@ Professional Points, or Pro Points, are a way for you as a student to engage in 
 Below are a list of assignment ideas to earn your professional points credit. You must choose 6 different ideas across at least 3 of the categories below. Each category has some specific requirements after it. The number after the category name is the amount of assignments you should consider doing from that category. For example, the Media category has (0-1) after it, so you can do as little as none from that category and at most one, but no more than one. The Events category has (1 - *) so you must do one assignment from this category and have the option for many of your assignments to come from this category (remember you need to have assignments from 3 different categories).
 
 ### Required (1)
-1.	Join the Mid-State Cyber Cougars Discord Group
-     1.	Invite here: https://discord.gg/BjBjdYD5kP
-     1.	Introduce yourself and post a meme.
+1.	Join the Mid-State Cyber Cougars Discord Group and Teams channel
+     1.   Discord:
+          1.	Invite for discord here: https://discord.gg/BjBjdYD5kP
+          1.	Introduce yourself and post a meme on discord
+     1.   Teams:
+          1. Join the Teams group here: [Mid-State Cyber Cougars Teams Group](https://teams.microsoft.com/l/team/19%3ab4e1c95933c44670a140dced94eaafda%40thread.tacv2/conversations?groupId=abc3d8a1-f609-4ebd-9f0b-2b47acf34066&tenantId=2d0c965b-8fc1-4bc0-b627-a39e7823c253).
+          2. Look at the Events tab at the top of the general channel.
+     3.	No write up neccessry for this pro points assignment
 
 ### Events (1 – *)
 1.	Attend a Gaming Club Event
      1.	View Discussion and Events on our [Mid-State Cyber Cougars Teams Group](https://teams.microsoft.com/l/team/19%3ab4e1c95933c44670a140dced94eaafda%40thread.tacv2/conversations?groupId=abc3d8a1-f609-4ebd-9f0b-2b47acf34066&tenantId=2d0c965b-8fc1-4bc0-b627-a39e7823c253).
-          1.	Join this Teams group
      1.	You can attend more than one event for credit as long as the event is different. For example, you cannot attend 2 board game nights and earn credit for both.
 2.	Attend or Volunteer at an Industry Conference
      1.	CypherCon, SuperCon, Secure/Career 360, WI Governor's Cybersecurity Summit, BSides, Cyber Security Summit, Deadwood, Wild West Hackin Fest, GrrCON, SANS Summits, RSA Conference, BlueTeamCon, Summerfext Tech (https://www.summerfest.com/tech/), NWTC Cybersecurity Conference (https://www.nwtc.edu/events/2022/09/innovative-technology-series-nwtc-cybersecurity-co) etc…
