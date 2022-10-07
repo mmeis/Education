@@ -92,9 +92,11 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.   https://lnkd.in/dEihGfAg)
 13. The Internet’s Own Boy: The Story Of Aaron Swartz
      1.   https://lnkd.in/d3hQVxqp
-15. Hackers Wanted
+15. Def Con 30 Obsidian Stations (Blue Team YouTube Videos, watch one or many).
+     1.   https://www.youtube.com/watch?v=Km-gzMceT6M&list=PLvQcui-UIwfSvcB6mHYK-KSTVRqOyqIRJ
+17. Hackers Wanted
      1.   https://lnkd.in/du-pMY2R
-17. Secret History Of Hacking
+18. Secret History Of Hacking
      1.   https://lnkd.in/dnCWU-hp
 19. Def Con: The Documentary
      1.   https://lnkd.in/dPE4jVVA
