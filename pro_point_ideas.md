@@ -76,21 +76,23 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.	https://www.youtube.com/watch?v=UvUyDFUza64
 2.	Your 5-year path
      1.	https://www.blackhillsinfosec.com/webcast-5-year-plan-infosec/
-3.	Stuxnet documentary
+3.	Hacking Google Series
+     1.   https://www.youtube.com/playlist?app=desktop&list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H
+5.	Stuxnet documentary
      1.	https://www.imdb.com/title/tt5446858/
-4.	Catch Me if You Can
+6.	Catch Me if You Can
      1.	https://www.imdb.com/title/tt0264464/
-5.	Enron – Smartest Guys in the Room
+7.	Enron – Smartest Guys in the Room
      1.	https://www.imdb.com/title/tt1016268/
-6.	Operation Donnie Brasco
+8.	Operation Donnie Brasco
      1.	https://www.youtube.com/watch?v=nUbFXiqgnm0
-7.	Made in Beijing: The Plan for Global Market Domination
+9.	Made in Beijing: The Plan for Global Market Domination
      1.	https://www.youtube.com/watch?v=GdapE82GceA
-8.	The Imitation Game
+10.	The Imitation Game
      1.   https://www.imdb.com/title/tt2084970/
-9.   Codebreaker Documentary
+11.   Codebreaker Documentary
      1.   https://www.imdb.com/title/tt2119396/
-11. We Are Legion – The Story Of The Hacktivists
+12. We Are Legion – The Story Of The Hacktivists
      1.   https://lnkd.in/dEihGfAg)
 13. The Internet’s Own Boy: The Story Of Aaron Swartz
      1.   https://lnkd.in/d3hQVxqp
