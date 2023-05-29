@@ -60,16 +60,18 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.   https://hackerhistory.com/
 4.	Subscribe to the Blue Security Podcast
      1.	https://anchor.fm/blue-security-podcast
-5.   Subcribe to the Security Now Podcast or YouTube channel
+5.   Subscribe to the Cyber Crime Junkies podcase or YouTube channel
+     1. https://www.youtube.com/watch?v=g-e3WSRsDq0
+7.   Subcribe to the Security Now Podcast or YouTube channel
      1.   https://www.youtube.com/c/securitynow
-6.	Subscribe to the Naket Security Newsletter or Podcast
+8.	Subscribe to the Naket Security Newsletter or Podcast
      1.   https://nakedsecurity.sophos.com/
-7.   Subscribe to The Langley Files: A CIA Podcast
+9.   Subscribe to The Langley Files: A CIA Podcast
      1.   https://podcasts.apple.com/us/podcast/the-langley-files-a-cia-podcast/id1645885248
-8.	Read a white paper (8+ pages) on a topic related to your major
-9.	Subscribe and listen to an industry podcast
-10.	Read a book and review it
-11.	Suggest a news source to your instructor
+10.	Read a white paper (8+ pages) on a topic related to your major
+11.	Subscribe and listen to an industry podcast
+12.	Read a book and review it
+13.	Suggest a news source to your instructor
 
 ### Media (0 – 1)
 1.	The 14 Absolute Truths of Security
