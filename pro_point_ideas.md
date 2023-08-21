@@ -96,15 +96,17 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.	https://www.youtube.com/watch?v=nUbFXiqgnm0
 9.	Made in Beijing: The Plan for Global Market Domination
      1.	https://www.youtube.com/watch?v=GdapE82GceA
-10.	The Imitation Game
+10.  Billion Dollar Heist
+     1.   https://www.uphe.com/movies/billion-dollar-heist
+12.	The Imitation Game
      1.   https://www.imdb.com/title/tt2084970/
-11.   Codebreaker Documentary
+13.   Codebreaker Documentary
      1.   https://www.imdb.com/title/tt2119396/
-12. We Are Legion – The Story Of The Hacktivists
+14. We Are Legion – The Story Of The Hacktivists
      1.   https://lnkd.in/dEihGfAg)
-13. The Internet’s Own Boy: The Story Of Aaron Swartz
+15. The Internet’s Own Boy: The Story Of Aaron Swartz
      1.   https://lnkd.in/d3hQVxqp
-15. Def Con 30 Obsidian Stations (Blue Team YouTube Videos, watch one or many).
+16. Def Con 30 Obsidian Stations (Blue Team YouTube Videos, watch one or many).
      1.   https://www.youtube.com/watch?v=Km-gzMceT6M&list=PLvQcui-UIwfSvcB6mHYK-KSTVRqOyqIRJ
 17. Hackers Wanted
      1.   https://lnkd.in/du-pMY2R
