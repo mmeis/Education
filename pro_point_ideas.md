@@ -74,10 +74,12 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.   https://podcasts.apple.com/us/podcast/the-langley-files-a-cia-podcast/id1645885248
 12.  Subscribe to the Cyber Security Recruiter YouTube Channel
      1.   https://www.youtube.com/@TheCyberSecurityRecruiter/videos
-14.	Read a white paper (8+ pages) on a topic related to your major
-15.	Subscribe and listen to an industry podcast
-16.	Read a book and review it
-17.	Suggest a news source to your instructor
+13.  Subscribe to the GRC Academy podcast:
+     1.   https://grcacademy.io/podcast/
+15.	Read a white paper (8+ pages) on a topic related to your major
+16.	Subscribe and listen to an industry podcast
+17.	Read a book and review it
+18.	Suggest a news source to your instructor
 
 ### Media (0 – 1)
 1.	The 14 Absolute Truths of Security
